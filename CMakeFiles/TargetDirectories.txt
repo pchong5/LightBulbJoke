@@ -1,0 +1,4 @@
+/home/pchong/LightBulbJoke/CMakeFiles/rebuild_cache.dir
+/home/pchong/LightBulbJoke/CMakeFiles/edit_cache.dir
+/home/pchong/LightBulbJoke/CMakeFiles/hw0.dir
+/home/pchong/LightBulbJoke/CMakeFiles/hw0.tar.dir
